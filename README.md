@@ -7,7 +7,6 @@ Bu repository, bir Öğrenci Bilgi Sistemi (Student Information System) projesid
 Bu proje, öğrenci kaydı ve bilgi yönetimi için temel işlevleri sağlamayı amaçlamaktadır. Projenin tam kapsamı ve özellikleri için kaynak kodunu inceleyin.
 
 ### Kurulum
-
 1. Repository'yi klonlayın:
 ```
 git clone https://github.com/SedefAlkan/StudentInformationSystem.git
